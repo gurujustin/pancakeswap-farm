@@ -1,2 +1,2 @@
 # kiwi farm/pools
-KIWIswap farm
+KIWIswap farm/pools
